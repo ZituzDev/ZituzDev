@@ -1,8 +1,8 @@
 ## Olá, me chamo Wagner Sousa
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZituzDev&show_icons=true&theme=synthwave" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZituzDev&layout=compact&theme=synthwave" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZituzDev&show_icons=true&theme=dark" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZituzDev&layout=compact&theme=dark" width="50%">
 </p>
 🛠️ **Tech Stack em construção**
 
